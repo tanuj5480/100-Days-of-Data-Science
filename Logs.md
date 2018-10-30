@@ -1,4 +1,4 @@
-# 100 Days of Data Science Log
+# 100 Days of ML Code Log
 
 ## Day 0: Oct 30, 2018 
 
