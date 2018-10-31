@@ -1,11 +1,12 @@
 **Linear regression assumptions and their validation**
 
-##Importing the libraries
+## Importing the libraries
+
 '''python
 import numpy as np
 '''
 
-##Creating both linear and non-linear data
+## Creating both linear and non-linear data
 '''python
 np.random.seed(20)
 x = np.arange(20)
