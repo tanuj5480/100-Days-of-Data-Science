@@ -8,6 +8,6 @@
 
 **Progress**: Linear Regression assumptions and their validation
 1. Linear relation between features and the dependant variable: Complete
-2. Homoscedasticity of error terms
+2. Homoscedasticity of error terms: Complete
 3. Uncorrelated error terms
 4. Independant features
