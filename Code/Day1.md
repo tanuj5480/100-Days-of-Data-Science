@@ -23,4 +23,7 @@ y_nonlinear = [x**3 + np.random.rand(1)*10 for x in range(20)]
 ```python
 linear = LinearRegression()
 linear.fit(x_reshape, y_linear)
+
+nonlinear = LinearRegression()
+nonlinear.fit(x_reshape, y_nonlinear)
 ```
