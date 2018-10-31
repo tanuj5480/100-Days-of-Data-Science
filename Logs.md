@@ -7,7 +7,7 @@
 ## Day 1: Oct 31, 2018
 
 **Progress**: Linear Regression assumptions and their validation
-1. Linear relation between features and the dependant variable
+1. Linear relation between features and the dependant variable: Complete
 2. No Outliers
 3. No high-leverage points
 4. Homoscedasticity of error terms
