@@ -8,8 +8,6 @@
 
 **Progress**: Linear Regression assumptions and their validation
 1. Linear relation between features and the dependant variable: Complete
-2. No Outliers
-3. No high-leverage points
-4. Homoscedasticity of error terms
-5. Uncorrelated error terms
-6. Independant features
+2. Homoscedasticity of error terms
+3. Uncorrelated error terms
+4. Independant features
