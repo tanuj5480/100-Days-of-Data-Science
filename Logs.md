@@ -20,4 +20,4 @@
 3. Uncorrelated error terms: Complete
 4. Independant features: Complete
 
-
+Started: Kaggle - House Prices: Advanced Regression Techniques (Problem #1)
