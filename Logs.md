@@ -11,3 +11,13 @@
 2. Homoscedasticity of error terms: Complete
 3. Uncorrelated error terms
 4. Independant features
+
+## Day 2: Nov 1, 2018
+
+**Progress**: Linear Regression assumptions and their validation
+1. Linear relation between features and the dependant variable: Complete
+2. Homoscedasticity of error terms: Complete
+3. Uncorrelated error terms: Complete
+4. Independant features: Complete
+
+
