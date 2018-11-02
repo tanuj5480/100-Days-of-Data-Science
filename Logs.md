@@ -21,3 +21,11 @@
 4. Independant features: Complete
 
 Started: Kaggle - House Prices: Advanced Regression Techniques (Problem #1)
+
+## Day 3: Nov 2, 2018
+
+**Progress**: Data prep for Problem #1
+1. Missing value treatment
+2. One hot encoding the categorical variables (which leads to much higher number of variables)
+3. Principal Component Analysis (to bring down the number of variables, while not losing information)
+
