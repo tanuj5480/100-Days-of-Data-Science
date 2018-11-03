@@ -29,3 +29,7 @@ Started: Kaggle - House Prices: Advanced Regression Techniques (Problem #1)
 2. One hot encoding the categorical variables (which leads to much higher number of variables)
 3. Principal Component Analysis (to bring down the number of variables, while not losing information)
 
+## Day 4: Nov 3, 2018
+
+**Progress**: PCA for the independant variables
+Next Step is to compare two models, PCA based and non-PCA based
