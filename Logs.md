@@ -33,3 +33,6 @@ Started: Kaggle - House Prices: Advanced Regression Techniques (Problem #1)
 
 **Progress**: PCA for the independant variables
 Next Step is to compare two models, PCA based and non-PCA based
+
+## Day 5: Nov 4, 2018
+**Progress**: Dependant variable transformation based on Q-Q plot
