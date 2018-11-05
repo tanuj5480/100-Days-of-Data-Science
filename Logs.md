@@ -35,4 +35,10 @@ Started: Kaggle - House Prices: Advanced Regression Techniques (Problem #1)
 Next Step is to compare two models, PCA based and non-PCA based
 
 ## Day 5: Nov 4, 2018
-**Progress**: Dependant variable transformation based on Q-Q plot
+**Progress**: Dependant variable transformation based on Q-Q plot. Busy day, could not get a lot done
+
+## Day 6: Nov 5, 2018
+**Progress**
+1. Missing value imputation, both categorical and continous variable seperately
+2. Skewness check for continous variables
+3. Box cox transformation for high skewness variables
