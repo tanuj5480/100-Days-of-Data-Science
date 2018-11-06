@@ -42,3 +42,7 @@ Next Step is to compare two models, PCA based and non-PCA based
 1. Missing value imputation, both categorical and continous variable seperately
 2. Skewness check for continous variables
 3. Box cox transformation for high skewness variables
+
+## Day 7: Nov 6, 2018
+**Progress**: Better understanding the GBM, from https://www.kdnuggets.com/2018/08/unveiling-mathematics-behind-xgboost.html
+
