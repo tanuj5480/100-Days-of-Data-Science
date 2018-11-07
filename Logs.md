@@ -46,3 +46,5 @@ Next Step is to compare two models, PCA based and non-PCA based
 ## Day 7: Nov 6, 2018
 **Progress**: Better understanding the GBM, from https://www.kdnuggets.com/2018/08/unveiling-mathematics-behind-xgboost.html
 
+## Day 8: Nov 7, 2018
+**Progress**: Going through another article to understand gradient boosting, https://www.kdnuggets.com/2018/07/intuitive-ensemble-learning-guide-gradient-boosting.html
