@@ -48,3 +48,7 @@ Next Step is to compare two models, PCA based and non-PCA based
 
 ## Day 8: Nov 7, 2018
 **Progress**: Going through another article to understand gradient boosting, https://www.kdnuggets.com/2018/07/intuitive-ensemble-learning-guide-gradient-boosting.html
+
+## Day 9: Nov 8, 2018
+**Progress** : Some more reading to understand how Ridge, Lasso and ElasticNet works.
+https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/ 
