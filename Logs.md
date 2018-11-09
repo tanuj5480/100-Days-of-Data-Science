@@ -53,3 +53,6 @@ Next Step is to compare two models, PCA based and non-PCA based
 **Progress** : Some more reading for in-depth understanding
 Linear Regression types: https://www.analyticsvidhya.com/blog/2017/06/a-comprehensive-guide-for-linear-ridge-and-lasso-regression/
 Classification Model Measurement: https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9
+
+## Day 10: Nov 9, 2018
+**Progress**: Reading deeper into how GBM works(how splits are created), https://stats.stackexchange.com/questions/162162/relative-variable-importance-for-boosting
