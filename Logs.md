@@ -56,3 +56,9 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 
 ## Day 10: Nov 9, 2018
 **Progress**: Reading deeper into how GBM works(how splits are created), https://stats.stackexchange.com/questions/162162/relative-variable-importance-for-boosting
+
+## Day 11: Nov 10, 2018
+**Progress**: Could not allocate time today due to travel
+
+## Day 12: Nov 11, 2018
+**Progress**: 
