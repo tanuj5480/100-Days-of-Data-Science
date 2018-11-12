@@ -61,4 +61,8 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 **Progress**: Could not allocate time today due to travel
 
 ## Day 12: Nov 11, 2018
-**Progress**: 
+**Progress**: Building base models for both PCA and non-PCA dataset, 
+1. Lasso
+2. ElasticNet
+3. Kernel Ridge Regression
+4. Xgboost
