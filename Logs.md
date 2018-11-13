@@ -65,4 +65,6 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 1. Lasso
 2. ElasticNet
 3. Kernel Ridge Regression
-4. Xgboost
+
+## Day 13: Nov 12, 2018
+**Progress** : Building first cut model, combining three scores i.e. Lasso, Ridge, ElasticNet, xgboost 
