@@ -67,4 +67,7 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 3. Kernel Ridge Regression
 
 ## Day 13: Nov 12, 2018
-**Progress** : Building first cut model, combining three scores i.e. Lasso, Ridge, ElasticNet, xgboost 
+**Progress**: Building first cut model, combining three scores i.e. Lasso, Ridge, ElasticNet, xgboost 
+
+## Day 14: Nov 13, 2018
+**Progress**: Some more work on the model, creating feature in the test data to submit on Kaggle 
