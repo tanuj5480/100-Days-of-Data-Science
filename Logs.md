@@ -71,3 +71,6 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 
 ## Day 14: Nov 13, 2018
 **Progress**: Some more work on the model, creating feature in the test data to submit on Kaggle 
+
+## Day 15: Nov 14, 2018
+**Progress**: More work on the model, to better create the dataset (combining the train and test, while feature engineering)
