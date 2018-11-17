@@ -77,3 +77,6 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 
 ## Day 16: Nov 15, 2018
 **Progress**: First cut of the model ready, only using xgboost
+
+## Day 17: Nov 16, 2018
+**Progress**: Model requiring some work to fix output issues
