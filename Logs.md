@@ -80,3 +80,6 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 
 ## Day 17: Nov 16, 2018
 **Progress**: Model requiring some work to fix output issues
+
+## Day 18: Nov 17, 2018
+**Progress**: Further look into the model, and also rebuilding from scratch 
