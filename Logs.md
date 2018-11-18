@@ -83,3 +83,6 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 
 ## Day 18: Nov 17, 2018
 **Progress**: Further look into the model, and also rebuilding from scratch 
+
+## Day 19: Nov 18, 2018
+**Progress**: After fixing the model, using PCA built a Lasso model and made kaggle submission. Current rank: 3821
