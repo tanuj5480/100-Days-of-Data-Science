@@ -86,3 +86,6 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 
 ## Day 19: Nov 18, 2018
 **Progress**: After fixing the model, using PCA built a Lasso model and made kaggle submission. Current rank: 3821
+
+## Day 20: Nov 19, 2018
+**Progress**: With missing value imputation done at each variable level, rank improved by 6 places. Still using ElasticNet
