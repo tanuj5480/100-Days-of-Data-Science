@@ -89,3 +89,6 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 
 ## Day 20: Nov 19, 2018
 **Progress**: With missing value imputation done at each variable level, rank improved by 6 places. Still using ElasticNet
+
+## Day 21: Nov 20, 2018
+**Progress**: Experimenting with more individual models, such as Gradient Boosting, Kernel Ridge. Not much improvement
