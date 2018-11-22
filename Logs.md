@@ -92,3 +92,6 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 
 ## Day 21: Nov 20, 2018
 **Progress**: Experimenting with more individual models, such as Gradient Boosting, Kernel Ridge. Not much improvement
+
+## Day 22: Nov 21, 2018
+**Progress**: Understanding how sklearn pipeline works. It would help in combining various models in one go. https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines
