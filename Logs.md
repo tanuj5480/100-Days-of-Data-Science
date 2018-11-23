@@ -95,3 +95,6 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 
 ## Day 22: Nov 21, 2018
 **Progress**: Understanding how sklearn pipeline works. It would help in combining various models in one go. https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines
+
+## Day 23: Nov 22, 2018
+**Progress**: Break from ML for a day, solving a few coding problems on HackerRank
