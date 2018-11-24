@@ -98,3 +98,6 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 
 ## Day 23: Nov 22, 2018
 **Progress**: Break from ML for a day, solving a few coding problems on HackerRank
+
+## Day 24: Nov 23, 2018
+**Progress**: Some more algorithms practice on HackerRank
