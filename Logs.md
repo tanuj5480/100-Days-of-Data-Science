@@ -101,3 +101,6 @@ Classification Model Measurement: https://towardsdatascience.com/accuracy-precis
 
 ## Day 24: Nov 23, 2018
 **Progress**: Some more algorithms practice on HackerRank
+
+## Day 25: Nov 24, 2018
+**Progress**: Learning data structures, and started with practicing Linked Lists
